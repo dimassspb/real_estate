@@ -7,6 +7,10 @@ export const dataBase = [
         panorama: "https://kuula.co/post/n1/collection/79WTF",
         slides: [
             {
+                url: "https://yandex.ru/images/search?utm_source=main_stripe_big&text=%D0%A3%D1%81%D1%81%D1%83%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A2%D0%B8%D0%B3%D1%80&nl=1&source=morda",
+                title: "EMERALD HOMES",
+            },
+            {
                 url: "https://4.downloader.disk.yandex.ru/preview/9c8b004d0a6c7fb7597336b10f566423502522a9da31841494c53fec316aa34c/inf/87WYv4pFFoe4m9ttbhf5rPNDqe4k30kYwUuLLJSHhtTWyO_L3r8uylYRcRENO9XfIYpYJZXM2yD2FDkJ0ebh2w%3D%3D?uid=24371254&filename=2023-01-30%2017-07-55_1675105770905.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=24371254&tknv=v2&size=1920x969",
                 title: "EMERALD HOMES",
             },
